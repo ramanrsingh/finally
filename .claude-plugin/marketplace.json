@@ -1,0 +1,20 @@
+{
+    "name": "raman-tools",
+    "owner": {
+        "name": "Raman",
+        "email": "raman.rsingh@gmail.com"
+    },
+    "plugins":[
+        {
+            "name": "independent-reviewer",
+            "source": "./independent-reviewer",
+            "description": "carry out an independent review of all changes since last commit",
+            "version": "1.0.0",
+            "author": {
+                "name": "Raman",
+                "email": "raman.rsingh@gmail.com"
+            }
+
+        }
+    ]
+}
